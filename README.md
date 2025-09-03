@@ -17,8 +17,8 @@ A simple Android app built with **Jetpack Compose** that displays a list of supe
 
 ## Screenshots
 
-<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/b0a01dd2-72c2-4a7b-afea-e8a92b36116c" />
-<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/84b622b6-ee45-4f8d-a05e-9dd42b8c38ae" />
+<img width="360" alt="image" src="https://github.com/user-attachments/assets/b0a01dd2-72c2-4a7b-afea-e8a92b36116c" />
+<img width="360" alt="image" src="https://github.com/user-attachments/assets/84b622b6-ee45-4f8d-a05e-9dd42b8c38ae" />
 
 
 ## Tech Stack
